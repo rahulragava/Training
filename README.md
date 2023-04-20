@@ -1,0 +1,2 @@
+# Training
+Git learning purpose
